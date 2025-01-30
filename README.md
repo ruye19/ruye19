@@ -1,6 +1,11 @@
 ## Hi there 👋  I'm Ruth Yeshitila!
-- 💻 Software Engineering Student @ Addis Ababa University
- -🚀 Full-Stack Developer | Tech Enthusiast
+-💻 Software Engineering Student @ Addis Ababa University (Class of 2027)
+- 🚀 Aspiring Full-Stack Developer | Tech Enthusiast
+- 🌍 Passionate about building digital solutions for underserved communities
+
+I love coding, web development, and creating impactful tech projects! Let's connect and build something amazing. 🚀✨
+
+
 
 ## 🛠 Languages and Tools: 
 
@@ -11,12 +16,13 @@
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Express.js" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+<img align="left" alt="Git Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   
+
 </p>
 
 <br><br>
