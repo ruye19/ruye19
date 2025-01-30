@@ -1,41 +1,26 @@
-## Hi there 👋
-Hi there, I'm Ruth Yeshitila! 👋
+## Hi there 👋  I'm Ruth Yeshitila!
+- 💻 Software Engineering Student @ Addis Ababa University
+ -🚀 Full-Stack Developer | Tech Enthusiast
 
-I'm a passionate software engineering student at Addis Ababa University, on a mission to build innovative digital solutions for underserved communities. I love creating dynamic and user-friendly applications, and I specialize in full-stack web development. 🚀
+## 🛠 Languages and Tools: 
 
-🛠 Tech Stack & Skills:
+<p align="left">
+  <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</p>
 
-🌐 Front-End: HTML | CSS | JavaScript | React | Bootstrap
+<br><br>
 
-💻 Back-End: Node.js | Express.js
-
-🐍 Programming Languages: Python | Java | JavaScript | C++ (basic)
-
-🗄 Database Management: SQL
-
-🔧 Tools & Platforms: Git | GitHub | Git Bash | VS Code | Eclipse
-
-🚀 What I Love Building:
-
-Interactive Web Apps 🎨
-
-Scalable Full-Stack Projects 🏗️
-
-Innovative Solutions for Real-World Problems 💡
-
-🌍 My Mission:
-
-I believe in using technology to make an impact, and I aim to bridge the digital divide by creating solutions that empower communities. I also enjoy contributing to open-source projects and learning new technologies along the way! 🚀
-
-📫 Connect With Me:
-
-GitHub: github.com/yourusername
-
-LinkedIn: linkedin.com/in/yourprofile
-
-Email: your.email@example.com
-
-Let's collaborate and create something amazing! ✨
 
 <!--
 **ruye19/ruye19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
