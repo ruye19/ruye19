@@ -3,7 +3,7 @@
 - 🚀 Aspiring Full-Stack Developer | Tech Enthusiast
 - 🌍 Passionate about building digital solutions for underserved communities
 
-# I love coding, web development, and creating impactful tech projects. 🚀✨
+I love coding, web development, and creating impactful tech projects. 🚀✨
 
 
 
