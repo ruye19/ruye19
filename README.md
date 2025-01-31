@@ -22,12 +22,7 @@ I love coding, web development, and creating impactful tech projects. 🚀✨
 <img align="left" alt="Express.js" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align="left" alt="Git Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left"  width="30px" style="padding-right:10px;" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/bootstrap-icons.svg" />
-
 </p>
-
-<br><br>
-
-
 <!--
 **ruye19/ruye19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
