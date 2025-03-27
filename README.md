@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Ruth Yeshitila!
 -💻 Software Engineering Student @ Addis Ababa University (Class of 2027)
-- 🚀 Aspiring Full-Stack Developer | Tech Enthusiast
+- 🚀 Full-Stack Dev | mobile dev
 - 🌍 Passionate about building digital solutions for underserved communities
 
 I love coding, web development, and creating impactful tech projects. 🚀✨
