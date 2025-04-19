@@ -6,6 +6,10 @@
 I love coding, web development, and creating impactful tech projects. 🚀✨
 
 
+![](https://komarev.com/ghpvc/?username=ruye19&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 
 ## 🛠 Languages and Tools: 
 
