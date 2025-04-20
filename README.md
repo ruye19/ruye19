@@ -1,9 +1,9 @@
 ## Hi there 👋  I'm Ruth Yeshitila!
--💻 Software Engineering Student @ Addis Ababa University (Class of 2027)
-- 🚀 Full-Stack Dev
+- Software Engineering Student @ Addis Ababa University (Class of 2027)
+-  Full-Stack Dev
 - 🌍 Passionate about building digital solutions for underserved communities
 
-I love coding, web development, and creating impactful tech projects. 🚀✨
+I love coding, web development, and creating impactful tech projects.
 
 
 ![](https://komarev.com/ghpvc/?username=ruye19&label=Profile%20views&color=0e75b6&style=flat)
